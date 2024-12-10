@@ -1,0 +1,66 @@
+Log-likelihood: [Training] -2113473.0, [Validation] N/A, [Test] N/A
+
+| Coefficient                  |   Estimation |   Std. Err. |       z-value |   Pr(>|z|) | Significance   |
+|:-----------------------------|-------------:|------------:|--------------:|-----------:|:---------------|
+| user_Gender0[item-full]_0    |   -0.25028   |   nan       | nan           | nan        |                |
+| user_Gender0[item-full]_1    |    0.727536  |    16.9327  |   0.0429663   |   0.965728 |                |
+| user_Gender0[item-full]_2    |   -0.802277  |    13.0827  |  -0.0613234   |   0.951102 |                |
+| user_Gender1[item-full]_0    |   -0.0698122 |     1.8232  |  -0.0382911   |   0.969456 |                |
+| user_Gender1[item-full]_1    |    0.877687  |   nan       | nan           | nan        |                |
+| user_Gender1[item-full]_2    |   -0.632306  |    15.07    |  -0.041958    |   0.966532 |                |
+| user_Class0[item-full]_0     |   -0.629529  |   nan       | nan           | nan        |                |
+| user_Class0[item-full]_1     |   -0.607767  |   nan       | nan           | nan        |                |
+| user_Class0[item-full]_2     |   -1.24841   |   nan       | nan           | nan        |                |
+| user_Class1[item-full]_0     |   -0.782415  |   nan       | nan           | nan        |                |
+| user_Class1[item-full]_1     |   -0.725345  |   nan       | nan           | nan        |                |
+| user_Class1[item-full]_2     |   -1.37802   |   nan       | nan           | nan        |                |
+| user_Class2[item-full]_0     |    0.188601  |   125.122   |   0.00150733  |   0.998797 |                |
+| user_Class2[item-full]_1     |    0.017644  |   129.143   |   0.000136624 |   0.999891 |                |
+| user_Class2[item-full]_2     |   -0.527526  |    79.838   |  -0.00660746  |   0.994728 |                |
+| user_Age0[item-full]_0       |    0.522511  |     3.32451 |   0.15717     |   0.875111 |                |
+| user_Age0[item-full]_1       |    0.423807  |   nan       | nan           | nan        |                |
+| user_Age0[item-full]_2       |    0.475214  |     4.60812 |   0.103125    |   0.917864 |                |
+| user_Age1[item-full]_0       |   -0.687361  |   nan       | nan           | nan        |                |
+| user_Age1[item-full]_1       |   -0.753091  |   nan       | nan           | nan        |                |
+| user_Age1[item-full]_2       |   -0.717996  |   nan       | nan           | nan        |                |
+| user_Age2[item-full]_0       |   -0.14586   |   nan       | nan           | nan        |                |
+| user_Age2[item-full]_1       |   -0.181505  |   nan       | nan           | nan        |                |
+| user_Age2[item-full]_2       |   -0.166529  |     9.80238 |  -0.0169886   |   0.986446 |                |
+| user_Earning0[item-full]_0   |   -0.401184  |   nan       | nan           | nan        |                |
+| user_Earning0[item-full]_1   |   -0.426085  |   nan       | nan           | nan        |                |
+| user_Earning0[item-full]_2   |   -1.50169   |   nan       | nan           | nan        |                |
+| user_Earning1[item-full]_0   |    0.5907    |    10.6855  |   0.0552806   |   0.955915 |                |
+| user_Earning1[item-full]_1   |    0.552922  |     4.5891  |   0.120486    |   0.904098 |                |
+| user_Earning1[item-full]_2   |   -0.510456  |   nan       | nan           | nan        |                |
+| user_Earning2[item-full]_0   |    1.45214   |   nan       | nan           | nan        |                |
+| user_Earning2[item-full]_1   |    1.3004    |   nan       | nan           | nan        |                |
+| user_Earning2[item-full]_2   |    0.290095  |   nan       | nan           | nan        |                |
+| user_Military0[item-full]_0  |    0.243646  |   nan       | nan           | nan        |                |
+| user_Military0[item-full]_1  |    0.241549  |     9.18526 |   0.0262975   |   0.97902  |                |
+| user_Military0[item-full]_2  |   -0.775675  |   nan       | nan           | nan        |                |
+| user_Military1[item-full]_0  |    0.110416  |     4.24555 |   0.0260074   |   0.979251 |                |
+| user_Military1[item-full]_1  |   -0.028714  |     3.91791 |  -0.00732891  |   0.994152 |                |
+| user_Military1[item-full]_2  |   -0.978919  |   nan       | nan           | nan        |                |
+| user_Ethnicity0[item-full]_0 |   -0.872324  |   nan       | nan           | nan        |                |
+| user_Ethnicity0[item-full]_1 |   -0.810176  |     1.8873  |  -0.429279    |   0.66772  |                |
+| user_Ethnicity0[item-full]_2 |   -0.511702  |    27.0469  |  -0.018919    |   0.984906 |                |
+| user_Ethnicity1[item-full]_0 |   -1.03715   |    14.9993  |  -0.0691464   |   0.944873 |                |
+| user_Ethnicity1[item-full]_1 |   -1.74016   |    16.4515  |  -0.105775    |   0.915761 |                |
+| user_Ethnicity1[item-full]_2 |   -1.03667   |     9.50957 |  -0.109014    |   0.913192 |                |
+| user_Ethnicity2[item-full]_0 |   -1.16736   |   nan       | nan           | nan        |                |
+| user_Ethnicity2[item-full]_1 |   -1.69836   |   nan       | nan           | nan        |                |
+| user_Ethnicity2[item-full]_2 |   -1.12767   |    23.3354  |  -0.0483243   |   0.961458 |                |
+| user_Ethnicity3[item-full]_0 |    0.763328  |   nan       | nan           | nan        |                |
+| user_Ethnicity3[item-full]_1 |    0.258841  |   nan       | nan           | nan        |                |
+| user_Ethnicity3[item-full]_2 |    0.836128  |    17.2265  |   0.0485374   |   0.961288 |                |
+| user_Education0[item-full]_0 |    0.671878  |   nan       | nan           | nan        |                |
+| user_Education0[item-full]_1 |   -0.548721  |   nan       | nan           | nan        |                |
+| user_Education0[item-full]_2 |    0.280135  |     8.11026 |   0.0345408   |   0.972446 |                |
+| user_Education1[item-full]_0 |    0.204187  |     5.24627 |   0.0389204   |   0.968954 |                |
+| user_Education1[item-full]_1 |   -1.11308   |   nan       | nan           | nan        |                |
+| user_Education1[item-full]_2 |   -0.223679  |    16.7544  |  -0.0133504   |   0.989348 |                |
+| user_Education2[item-full]_0 |    1.51703   |    24.8651  |   0.0610104   |   0.951351 |                |
+| user_Education2[item-full]_1 |   -0.0589964 |    18.8415  |  -0.00313119  |   0.997502 |                |
+| user_Education2[item-full]_2 |    0.984215  |    41.4814  |   0.0237267   |   0.981071 |                |
+Significance codes: 0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+Time taken: 1382.0706861019135
